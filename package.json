@@ -1,0 +1,15 @@
+{
+  "name": "MajorBoringHack",
+  "version": "1.0.0",
+  "description": "Testing repl.it's database :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "darmiyaevdevalo on repl.it",
+  "license": "ISC",
+  "dependencies": {
+    "@replit/database": "^2.0.0"
+  }
+}
